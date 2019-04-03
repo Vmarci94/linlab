@@ -1,4 +1,3 @@
-# Megoldás
 ## 1.4
 A céges policy-k szerint a távoli bejelentkezést biztosı́tó szolgáltatásoknak (ssh) csak a lokális hálózatról kell elérhetőnek lenniük. Módosı́tsa a tűzfalszabályokat ennek megfelelően!
 ```bash
